@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to mybank , accounts related prod api"
+  message: "Welcome to mybank , accounts related prod api check check"
   contactDetails:
     name: "poonam gaikwad"
     email: "{cipher}6e2f84cec9022a0ca361c0ae4658649b4876ba67ec55f536ed066d4e1128c055d16aea91467d46df828cbf98709f7e77"
