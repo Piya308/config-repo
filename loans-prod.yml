@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to mybank , loans related prod api check"
+  message: "Welcome to mybank , loans related prod api checkcheck"
   contactDetails:
     name: "poonam gaikwad"
     email: "poonam@gmail.com"
