@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to mybank , cards related local api"
+  message: "Welcome to mybank , cards related local api check"
   contactDetails:
     name: "poonam gaikwad"
     email: "poonam@gmail.com"
